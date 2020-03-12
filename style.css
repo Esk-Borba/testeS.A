@@ -1,0 +1,32 @@
+html , body{
+    margin: 0;
+    background-color: black;
+    display: flex;
+}
+.placeHolder{
+    border-radius: 2px;
+    color: aqua;
+    margin-bottom: 20px;
+}
+#positionIframe{
+    margin-top: 89px;
+}
+.iframe {
+    display: none;
+}
+p{
+    color: white;
+    margin: 0;
+}
+#bottons{
+    margin: 0;
+    width: 100px;
+    height: 658px;
+    display: block;
+    border: white solid 2px;
+}
+#menuCadastroUsuario{
+    margin-top: 120px;
+    margin-left: 255px;
+    align-items: center;
+}
